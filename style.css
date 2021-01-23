@@ -1,0 +1,17 @@
+.purple-text{
+    color:rgb(18, 102, 7)
+}
+body{
+    font-family: 'Roboto', sans-serif;
+    background-color: #b6d8d8 ;
+    color: rgb(10, 10, 102)
+}
+
+
+head{
+    font-family: 'Times New Roman', Times, serif, sans-serif
+}
+
+div.a{
+    text-align: center
+}
